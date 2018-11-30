@@ -4,7 +4,7 @@ if(isset($_SESSION['session']))
 {
 	header("location:principal.php");
 	exit;
-}
+} 
 ?>
 <!DOCTYPE html>
 <html lang="es">
@@ -24,7 +24,7 @@ if(isset($_SESSION['session']))
 		<div id="contenedor">
 	
 			<div id="cabecera" >
-				<img src="./css/images/cambio01.jpg">
+				<img src="./css/images/logo.gif">
 			</div>
 	
 			<div id="cuerpo">
