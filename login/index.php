@@ -17,14 +17,14 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>REGISTRATE</a>
+          	<a href="./php/registro.php"</a>Inscribite</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
 		<div id="contenedor">
 	
 			<div id="cabecera" >
-				<img src="./css/images/infinio.jpg">
+				<img src="./css/images/cambio01.jpg">
 			</div>
 	
 			<div id="cuerpo">
