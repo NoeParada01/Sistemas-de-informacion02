@@ -9,7 +9,7 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>sistemas de informacion</title>
+	<title>sistemas</title>
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
@@ -17,7 +17,7 @@ if(isset($_SESSION['session']))
 <body>
 	
 	<div id="registrar">
-          	<a href="./php/registro.php"</a>Inscribe</a>
+          	<a href="./php/registro.php"</a>inscripbir</a>
     </div> <!-- fin opcion-->
     
 	<div id="envoltura">
@@ -35,14 +35,14 @@ if(isset($_SESSION['session']))
 					<p><label >Usuario:</label></p>
 						<input name="usuario" type="text" id="usuario" placeholder="Ingresa Usuario" autofocus="" required=""></p>
 					
-					<p><label>Contraseña:</label></p>
+					<p><label>contraseña:</label></p>
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingresa Password" required=""></p>
 					
-					<p id="bot"><input type="submit" id="submit" name="submit" value="Ingresar" class="boton"></p>
+					<p id="bot"><input type="submit" id="submit" name="submit" value="ENTRAR" class="boton"></p>
 				</form>
 			</div><!--fin cuerpo-->
 	
-			<div id="pie">INFTEC</div>
+			<div id="pie">INF</div>
 		</div><!-- fin contenedor -->
 
 	</div><!--fin envoltura-->
