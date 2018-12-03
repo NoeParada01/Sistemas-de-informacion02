@@ -17,7 +17,7 @@
 		<div id="contenedor">
 	
 			<div id="cabecera">
-				<img src="./../css/images/logo.gif" >
+				<img src="./../css/images/logo para registro.gif" >
 			</div>
 	
 			<div id="cuerpo">
