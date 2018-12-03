@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>REGISTRO</title>
+	<title>REGISTRO DE DATOS</title>
 	<meta charset="utf-8">
 	<!-- Se agrega la biblioteca de jquery y enseguida nuestro js de funciones-->
 	<script type="text/javascript" src="./../js/jquery-1.10.2.min.js" ></script>
