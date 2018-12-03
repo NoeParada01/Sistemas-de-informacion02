@@ -11,7 +11,7 @@
 
 <body>
 	<div id="registrar">
-          	<a href="../index.php"</a>Regresar</a>
+          	<a href="../index.php"</a>Retroceso</a>
     </div>
 	<div id="envoltura">
 		<div id="contenedor">
