@@ -24,13 +24,13 @@
 				<form id="form-login" action="agregar.php" method="post" >
 					
 					<p><label for="nombre">Nombre de usuario:</label></p>
-						<input name="nombre" type="text" id="nombre" class="nombre" placeholder="Pon tu nombre" autofocus=""/ ></p>
+						<input name="nombre" type="text" id="nombre" class="nombre" placeholder="INGRESA TU NOMBRE" autofocus=""/ ></p>
 						<div id="mensaje1" class="errores"> Ingresa solo caracteres</div>
 					
 					<!--=============================================================================================-->
 					<!-- En seguida de cada input se agregará un div con el mensaje de error-->
 					<p><label for="apellidos">Apellidos de usuario:</label></p>
-						<input name="apellidos" type="text" id="apellidos" class="apellidos" placeholder="Pon tus apellidos" /></p>
+						<input name="apellidos" type="text" id="apellidos" class="apellidos" placeholder="INGRESA TUS APELLIDOS" /></p>
 					    <div id="mensaje2" class="errores"> Ingresa solo caracteres</div>
 					<!--=============================================================================================-->
     
