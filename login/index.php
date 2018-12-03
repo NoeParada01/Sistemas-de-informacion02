@@ -16,7 +16,7 @@ if(isset($_SESSION['session']))
 
 <body>
 	
-	<div id="registrar">
+	<div id="ENTRAR">
           	<a href="./php/registro.php"</a>I N G R E S A R</a>
     </div> <!-- fin opcion-->
     
