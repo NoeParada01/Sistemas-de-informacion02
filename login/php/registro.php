@@ -35,7 +35,7 @@
 					<!--=============================================================================================-->
     
 					<p><label for="correo">Correo:</label></p>
-						<input name="correo" type="text" id="correo" class="correo" placeholder="Pon tu mail" /></p>
+						<input name="correo" type="text" id="correo" class="correo" placeholder="INGRESA TU EMAIL" /></p>
 						<div id="mensaje3" class="errores"> Mail no valido</div>
 						
 					<p><label for="pass">Password:</label></p>
