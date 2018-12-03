@@ -39,10 +39,10 @@
 						<div id="mensaje3" class="errores"> Mail no valido</div>
 						
 					<p><label for="pass">Password:</label></p>
-						<input name="pass" type="password" id="pass" class="pass" placeholder="Pon tu contraseña" required=""/ ></p>
+						<input name="pass" type="password" id="pass" class="pass" placeholder="INGRESA TU CONTRASEÑA" required=""/ ></p>
 					
 					<p><label for="repass">Repetir Password:</label></p>
-						<input name="repass" type="password" id="repass" class="repass" placeholder="Repite contraseña" required="" /></p>
+						<input name="repass" type="password" id="repass" class="repass" placeholder="REPITE TU CONTRASEÑA" required="" /></p>
 						<div id="mensaje4" class="errores"> Passwords incorrectos</div>
 						
 					<p id="bot"><input name="submit" type="submit" id="boton" value="Registrar" class="boton"/></p>
