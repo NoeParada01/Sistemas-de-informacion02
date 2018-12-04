@@ -9,7 +9,7 @@ if(isset($_SESSION['session']))
 <!DOCTYPE html>
 <html lang="es">
 <head>
-	<title>INICIO DE SESIÓN</title>
+	<title>INTERFAZ DE ACEESO</title>
 	<meta charset="utf-8">
 	<link type="text/css" href="./css/style.css" rel="stylesheet" />
 </head>
@@ -24,7 +24,7 @@ if(isset($_SESSION['session']))
 		<div id="contenedor">
 	
 			<div id="cabecera" >
-				<img src="./css/images/logodeimagen.jpg">
+				<img src="./css/images/smile.gif">
 			</div>
 	
 			<div id="cuerpo">
@@ -33,12 +33,12 @@ if(isset($_SESSION['session']))
 					<!--ejemplo <label for="usuario">Usuario:</label>-->
 					<!--required es nuevo en html5, si el campo está vacío te avisa, pero cuidado, no valida la información-->
 					<p><label >Usuario:</label></p>
-						<input name="usuario" type="text" id="usuario" placeholder="Ingrese datos de usuario" autofocus="" required=""></p>
+						<input name="usuario" type="text" id="usuario" placeholder="Email o cuenta" autofocus="" required=""></p>
 					
 					<p><label>contraseña:</label></p>
-						<input name="contrasenia" type="password" id="contrasenia" placeholder="Ingrese contraseña de usuario" required=""></p>
+						<input name="contrasenia" type="password" id="contrasenia" placeholder="PIN de acceso" required=""></p>
 					
-					<p id="bot"><input type="submit" id="submit" name="submit" value="ENTRAR" class="boton"></p>
+					<p id="bot"><input type="submit" id="submit" name="submit" value="A c c e d e r" class="boton"></p>
 				</form>
 			</div><!--fin cuerpo-->
 	
