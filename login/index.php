@@ -24,7 +24,7 @@ if(isset($_SESSION['session']))
 		<div id="contenedor">
 	
 			<div id="cabecera" >
-				<img src="./css/images/logodeimagen.jpg">
+				<img src="./css/images/smile.gif">
 			</div>
 	
 			<div id="cuerpo">
