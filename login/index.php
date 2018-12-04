@@ -35,7 +35,7 @@ if(isset($_SESSION['session']))
 					<p><label >U S U A R I O:</label></p>
 						<input name="usuario" type="text" id="usuario" placeholder="Email o cuenta" autofocus="" required=""></p>
 					
-					<p><label>contraseña:</label></p>
+					<p><label>C O N T R A S E Ñ A:</label></p>
 						<input name="contrasenia" type="password" id="contrasenia" placeholder="PIN de acceso" required=""></p>
 					
 					<p id="bot"><input type="submit" id="submit" name="submit" value="A c c e d e r" class="boton"></p>
